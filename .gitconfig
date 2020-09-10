@@ -1,0 +1,17 @@
+[alias]
+        st = status
+        co = checkout
+        nb = "co -b"
+        cod = "co develop"
+        fta = "fetch --all"
+        ps = push
+        psf = "ps -f"
+        pl = pull
+        plf = "pl -f"
+        rb = rebase
+        rbi = "rb -i"
+        rbd = "rb develop"
+        ci = commit
+        cim = "ci -m"
+        ciam = "ci -a -m"
+        aa = "add ."
